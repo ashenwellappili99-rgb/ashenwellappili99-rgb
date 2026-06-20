@@ -12,8 +12,6 @@
 - 🎯 Long-term goal: Become an **AI Engineer**
 - 🐍 Currently building skills in **Python** (beginner–intermediate level)
 - 🌏 Based in **Sri Lanka**
-- 📝 I write about AI tools at [aitoolstutorials.blogspot.com](https://aitoolstutorials.blogspot.com)
-
 ---
 
 ### 🛠️ Skills & Technologies
@@ -31,6 +29,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![antigravity](https://img.shields.io/badge/antigravity-3776AB?style=flat&logo=python&logoColor=white)
 
 **Interests**
 - 🤖 Artificial Intelligence & Machine Learning
@@ -42,7 +41,7 @@
 
 ### 🏆 Certifications
 
-- 🎖️ **Microsoft AI Skills Fest 2026** Badge
+- 🎖️ **Microsoft AI Skills Fest 2026** — [View Badge on Credly](https://www.credly.com/badges/da42ec48-3af2-4381-9ce5-c0bbb3abf9c6/public_url)
 
 ---
 
@@ -71,10 +70,18 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-e3hd.vercel.app)
+[![Blog](https://img.shields.io/badge/AI%20Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://aitoolstutorials.blogspot.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ashenwellappili99-rgb)
 
 ---
 
 <p align="center">
   <i>"Keep learning, keep building."</i>
+</p>
+
+---
+
+<p align="center">
+  <i>🐍 Python fun fact — try this in your terminal:</i><br>
+  <code>import antigravity</code>
 </p>
