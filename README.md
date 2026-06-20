@@ -29,7 +29,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![antigravity](https://img.shields.io/badge/Google_Antigravity-Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google-Antigravity-black?style=for-the-badge&logo=google&logoColor=white)
 
 **Interests**
 - 🤖 Artificial Intelligence & Machine Learning
