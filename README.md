@@ -81,7 +81,3 @@
 
 ---
 
-<p align="center">
-  <i>🐍 Python fun fact — try this in your terminal:</i><br>
-  <code>import antigravity</code>
-</p>
