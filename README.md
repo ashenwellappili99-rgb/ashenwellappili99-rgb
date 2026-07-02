@@ -1,41 +1,38 @@
 <h1 align="center">Hi there 👋 I'm Ashen</h1>
 
 <p align="center">
-  🎓 IT Undergraduate | AI Specialization &nbsp;•&nbsp; 🐍 Python Enthusiast &nbsp;•&nbsp; 🌱 Constantly Learning
+  <strong>🎓 IT Undergraduate | AI Specialization &nbsp;•&nbsp; 🐍 Python Enthusiast &nbsp;•&nbsp; 🌱 Constantly Learning</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashenwellappili99-rgb"><img src="https://img.shields.io/github/followers/ashenwellappili99-rgb?label=Followers&style=social" alt="GitHub Followers"></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🏫 Year 1 BSc (Hons) IT student at **ICBT Campus**, specializing in **Artificial Intelligence**
-- 🎯 Long-term goal: Become an **AI Engineer**
-- 🐍 Currently building skills in **Python** (beginner–intermediate level)
-- 🌏 Based in **Sri Lanka**
----
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Tools & Platforms**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white)
-
-**Interests**
-- 🤖 Artificial Intelligence & Machine Learning
-- 🗄️ Database Design & SQL
-- 🌐 Web Development
-- 📊 Data Science (learning path)
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🏫 Year 1 BSc (Hons) IT student at <strong>ICBT Campus</strong>, specializing in <strong>Artificial Intelligence</strong></li>
+        <li>🎯 Long-term goal: Become an <strong>AI Engineer</strong></li>
+        <li>🐍 Currently building skills in <strong>Python</strong> (beginner–intermediate level)</li>
+        <li>🌏 Based in <strong>Sri Lanka</strong></li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <h4>🎯 Interests</h4>
+      <ul>
+        <li>🤖 Artificial Intelligence & Machine Learning</li>
+        <li>🗄️ Database Design & SQL</li>
+        <li>🌐 Web Development</li>
+        <li>📊 Data Science (learning path)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -45,39 +42,70 @@
 
 ---
 
+### 🛠️ Tech Stack & Tools
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>💻 Languages</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🛠️ Tools & Platforms</h4>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+      <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🚀 Projects
 
-| Project | Description | Live |
-|--------|-------------|------|
-| [Brew Haven](https://github.com/ashenwellappili99-rgb) | Coffee shop multi-page website | [View](https://ashenwellappili99-rgb.github.io) |
-| [Portfolio](https://portfolio-e3hd.vercel.app) | Personal dev portfolio | [View](https://portfolio-e3hd.vercel.app) |
+| Project | Description | Live Link |
+| :--- | :--- | :---: |
+| ☕ **[Brew Haven](https://github.com/ashenwellappili99-rgb)** | Coffee shop multi-page website | [🌐 View Live](https://ashenwellappili99-rgb.github.io) |
+| 💼 **[Portfolio](https://portfolio-e3hd.vercel.app)** | Personal dev portfolio | [🌐 View Live](https://portfolio-e3hd.vercel.app) |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashenwellappili99-rgb&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashenwellappili99-rgb&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashenwellappili99-rgb&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashenwellappili99-rgb&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 ---
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-e3hd.vercel.app)
-[![Blog](https://img.shields.io/badge/AI%20Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://aitoolstutorials.blogspot.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ashenwellappili99-rgb)
+<p align="center">
+  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-e3hd.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://aitoolstutorials.blogspot.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/AI%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://github.com/ashenwellappili99-rgb" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
   <i>"Keep learning, keep building."</i>
 </p>
-
----
-
