@@ -55,7 +55,7 @@
 
 | Project | Description | Live Link |
 | :--- | :--- | :---: |
-| ☕ **[Brew Haven](https://github.com/ashenwellappili99-rgb)** | Coffee shop multi-page website | [🌐 View Live](https://ashenwellappili99-rgb.github.io) |
+| ☕ **[Brew Haven](https://github.com/ashenwellappili99-rgb)** | Coffee shop multi-page website | [🌐 View Live](https://ashenwellappili99-rgb.github.io/COFFE-SHOP-WEBSITE) |
 | 💼 **[Portfolio](https://portfolio-e3hd.vercel.app)** | Personal dev portfolio | [🌐 View Live](https://portfolio-e3hd.vercel.app) |
 
 ---
