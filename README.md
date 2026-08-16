@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🏫 Year 1 BSc (Hons) IT student at **ICBT Campus**, specializing in **Artificial Intelligence**
+- 🏫 Year 2 BSc (Hons) IT student at **ICBT Campus**, specializing in **Artificial Intelligence**
 - 🎯 Long-term goal: Become an **AI Engineer**
 - 🐍 Currently building skills in **Python** (beginner–intermediate level)
 - 🌏 Based in **Sri Lanka**
